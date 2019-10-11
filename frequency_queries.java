@@ -1,8 +1,8 @@
 /*
 [HackerRank] : You are given  queries. Each query is of the form two integers described below:
--  : Insert x in your data structure.
--  : Delete one occurence of y from your data structure, if present.
--  : Check if any integer is present whose frequency is exactly . If yes, print 1 else 0.
+1 x : Insert x in your data structure.
+2 y : Delete one occurence of y from your data structure, if present.
+3 z : Check if any integer is present whose frequency is exactly . If yes, print 1 else 0.
 Return an integer array consisting of all the outputs of queries of type .
 */
 
